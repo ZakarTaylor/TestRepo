@@ -1,4 +1,4 @@
-question = Input("Who ate the last cookie?!!?!?!")
+question = input("Who ate the last cookie?!!?!?!")
 if question == "I did.":
   print("Okay, i respect that.")
 else:
